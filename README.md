@@ -8,4 +8,4 @@
 
 ### Certificates
 
-[![Alt text](images/ejpt.png)](https://www.linkedin.com/feed/update/urn:li:activity:7360267732837179392/)
+
